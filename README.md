@@ -13,7 +13,7 @@ Variant calling analysis of whole genome sequencing (WGS) data from Bioproject (
 
 3.Trimming by using Fastp
 
-4.Aligmnet with BWA-MEM
+4.Alignment with BWA-MEM
 
 5.Processed BAM files using Samtools
 
