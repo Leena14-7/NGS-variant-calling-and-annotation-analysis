@@ -8,14 +8,22 @@ Variant calling analysis of whole genome sequencing (WGS) data from Bioproject (
 
 # Workflow
 1.Raw Data is download from public data set by using SRA Toolkit
+
 2.Quality check by using Fastqc
+
 3.Trimming by using Fastp
-4.Aligmnet with BWA-MEM 
+
+4.Aligmnet with BWA-MEM
+
 5.Processed BAM files using Samtools
+
 6.Variant calling with GATK
   (HaplotypeCaller/Mutect2)
-7.Filtered variants to retain high-quality results  
-8.Annotated variants using VEP  
+  
+7.Filtered variants to retain high-quality results
+
+8.Annotated variants using VEP
+
 9.Visualized selected variants in IGV
 
 # Results
@@ -26,4 +34,5 @@ Variant calling analysis of whole genome sequencing (WGS) data from Bioproject (
 
 # Author 
   Leena Patil 
+  
   NGS-variant-calling-and-annotation-analysis
