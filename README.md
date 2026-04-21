@@ -2,6 +2,7 @@
 
 # Description
 Variant calling analysis of whole genome sequencing (WGS) data from Bioproject (tongue cancer samples and cell lines) using,
+   
    . Tools - GATK , BWA, Samtools, SRA Toolkit, bcftools, VEP and IGV   
    . Reference genome-: hg38(chromosomes 5 and 7)
 
